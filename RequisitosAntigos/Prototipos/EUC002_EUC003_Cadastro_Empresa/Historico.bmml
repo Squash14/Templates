@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="934" measuredH="363" mockupW="672" mockupH="311">
+  <controls>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Button" x="804" y="336" w="106" h="27" measuredW="57" measuredH="27" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>false</menuIcon>
+        <state>up</state>
+        <text>Voltar</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::HRule" x="262" y="73" w="672" h="-1" measuredW="100" measuredH="10" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="267" y="52" w="289" h="-1" measuredW="193" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hist%F3rico%20%3C%20nome%20do%20cons%F3rcio%20%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="105" controlTypeID="com.balsamiq.mockups::DataGrid" x="262" y="90" w="-1" h="-1" measuredW="648" measuredH="231" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data/Hora%20%20%20%20%5E%2C%20Resp.%20pelo%20cadastro%20%5Ev%2C%20Empresa%2C%20Valor%20m%E1x.%20p/%20contrata%E7%E3o%20anual%20%20v%2C%20%20%20%20%20A%E7%E3o%0A20/07/2017%20-%2009%3A05%3A30%2C%20Jo%E3o%20Silva%20%20%2C%20Claro%20%20%2C%20100%20%20%20%2C%20%20Inclus%E3o%0A21/07/2017%20-%2010%3A00%3A00%20%2C%20Jo%E3o%20Silva%20%20%20%20%2C%20OI%20%20%20%20%20%20%2C%20300%20%20%2C%20%20Inclus%E3o%0ATotal%20%2C%20--------%20%20%20%20%2C%20------%20%20%2C400%0A%20%0A22/07/2017%20-%2009%3A40%3A00%2C%20Jo%E3o%20Silva%20%20%2C%20Claro%20%20%2C%20200%20%20%2C%20%20Altera%E7%E3o%0A21/07/2017%20-%2010%3A00%3A00%20%20%2C%20Jo%E3o%20Silva%20%20%20%20%2C%20OI%20%20%20%20%20%20%20%2C%20300%20%2C%20%20------------%0ATotal%20%2C%20--------%20%20%20%20%2C%20------%20%20%20%20%20%20%20%2C%20500%0A%7B65L%2C%200R%2C%2035%2C%200C%7D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
